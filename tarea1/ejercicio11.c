@@ -5,7 +5,7 @@
 int main()
 
 {
-    //Cuantos digitos tiene un numero
+    //Cuantos digitos tiene un numero abc
     int contador = 0; //Variables de tipo entero a utilizar
     int numero; 
     
