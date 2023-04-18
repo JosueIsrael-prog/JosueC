@@ -17,7 +17,7 @@ int main()
             
              printf("\n %d", i);     //si el residuo de la division es igual a cero, entonces es un numero par
                                     //con la ayuda de la funcion printf inprimo los numeros pares hasta el
-                                    //numero que se haya ingresado gracias a la ayuda del bucle for
+                                    //numero que se haya ingresa
              
               i++;
         }  
